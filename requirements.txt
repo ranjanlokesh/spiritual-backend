@@ -1,4 +1,0 @@
-pip install python-multipart
-
-uvicorn main:app --reload
-
